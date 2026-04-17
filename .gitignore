@@ -1,1 +1,11 @@
 *.usd
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+TB/
+logs/
+checkpoints/
+events.out.tfevents.*
+usd/dofbot.usd
